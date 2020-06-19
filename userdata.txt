@@ -1,0 +1,9 @@
+0;claud;1234
+1;abc;123
+2;def;456
+3;asdfg;12345
+4;wairbimochi;1
+5;qwerty;123
+6;ppp;111
+7;cc;cc
+8;qq;123

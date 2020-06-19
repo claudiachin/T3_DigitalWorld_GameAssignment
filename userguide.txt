@@ -1,0 +1,35 @@
+0. Aim of the Game
+You are a sorcerer, living in a world where magic has been outlawed. Embark on a quest to win your freedom, fighting the Knights that try to stop you along the way.
+In this
+
+1. Choosing your Avatar
+In the center of the Main Page, you will find a carousel of Avatars. Swipe right or left to select your avatar. The avatar of choice does not affect your attack power/HP levels.
+
+2. Choosing your Pet
+In the center of the Main Page, you will find a carousel of pets. Swipe right or left to select your pet. The pet of choice does not affect your attack power/HP levels.
+
+3. Choosing your level
+To choose which level to play, click on the 'Play' button at the bottom right hand corner of the Main Page. The Play Popup should appear, where you can see the levels available for playing, the stars you have achieved for each level, and the type of Knight (see Game Play) you will be fighting. Click the 'Start' button to begin. This should bring you to the Maze Page.
+
+4. Gameplay
+Currently, there are only 3 levels of game play to complete.
+
+a. Maze
+Complete the maze to get to the next level, using the movement buttons at the bottom of the screen. Difficulty increases from one maze to the next. In each maze, Knights await to ambush you. Coming across them will lead you to the Fighting Page. Defeat them to continue on your journey.
+
+b. Knights
+Knights hidden in the Maze will engage in battle with you. Defeat them in a turn-based duel, using the attack buttons at the bottom of the page.
+
+Attack power and uses vary.
+Attack 1: Causes damage of HP10-25. Infinite uses.
+Attack 2: Causes damage of HP10-30. 3 uses per Knight.
+Attack 3: Causes damage of HP10-40. 1 use per Knight.
+Pet Attack: Causes damage of HP10-35. 1 use per Knight.
+
+Losing automatically brings you to the Main Page with a popup informing you of your defeat, while winning either lets you continue with the maze or brings you to the Main Page with a popup informing you of your success.
+
+c. Stars
+Incoplete game: 0 Stars
+Complete with below HP30/100: 1 Star
+Complete with below HP50/100: 2 Stars
+Complete with above HP50/100: 3 Stars
